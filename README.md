@@ -1,17 +1,16 @@
 # The Tree of Gardener Toucan
+You wood not be-leaf the trouble Toucan goes through just to retire comfortably. 
 
 ### Genre: Farming, RPG
-
+### Audience and Venue: 
+The audience for this game will be for 8 year olds and older, aiming for an ESRB rating of E. The game will be available on Windows, Mac, and Linux operating systems.  
 ## Basic Premise:
-Gardener Toucan is just trying to keep the farm going like it used to, but more and more difficulties are coming his way. Can you save the farm before the entire Tree Town falls apart? You wood not be-leaf the trouble Toucan goes through just to retire comfortably. 
+Gardener Toucan is just trying to keep the farm going like it used to, but more and more difficulties are coming his way. Can you save the farm before the entire Tree Town falls apart? 
 
 ## Features: 
-- Pixelated, art style 
+- Cute pixelated art style 
 - Large, engaging world to explore 
-- Talks about the environment and its effects 
-- Optional storyline for those who want to farm 
-- Huge inventory 
-- So many other animals to communicate too 
+- Diverse assortment of interesting characters
 - Hundreds of different tasks to complete 
 
 ## Gameplay:
@@ -22,4 +21,15 @@ Complete various tasks from the various animal and bird neighbors to help them k
 Explore the other trees and their respective towns, completing new and engaging tasks with more backstory of the forest!
 
 ### Competition Products: 
-Stardew Valley
+Stardew Valley - Farming Simulator
+Harvest Moon - Farming Simulator
+
+The Tree of Gardener Toucan will delve into the environmental aspects more than these games, and have unique characters the player will enjoy. 
+
+### Player Motivation: 
+The player will be motivated to keep growing the garden in fear of what may happen when it dies. After talking to the neighbors, they will also be motivated to continue helping them out due to their struggles. 
+
+### Special
+The game will be going into the effects of climate change and deforestation on the environment. This will be demonstrated through the obstacles the player will face in their tasks and exploration. Dialogue by the neighbors will also go into these effects on different animals. 
+
+- Huge inventory (revisit)
